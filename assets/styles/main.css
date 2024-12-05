@@ -115,6 +115,16 @@ label {margin-bottom: 8px;}
   align-items: center;
 }
 
+#main::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: var(--page-background) no-repeat, url('../images/backgrounds/florest.png') no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+
 .world-characters#bottom-characters {
   height: 500px;
   background-color: var(--character-bottom-image-color);
