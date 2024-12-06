@@ -186,8 +186,11 @@ section {
 /* ====== section gallery ====== */
 #section-gallery {
   width: 100%;
+  justify-content: center;
   background: var(--background-lamp-image) 120% / 50% no-repeat;
 }
+
+#section-gallery .gallery-intro {width: 100%;}
 
 #section-gallery h2 {max-width: 800px}
 
