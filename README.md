@@ -20,9 +20,13 @@ Tema invertido:
 
 ## ✍️ Aprendizados
 🔹 Implementação de um tema dinâmico com manipulação de atributos `data-*`.
+
 🔹 Criação de um layout responsivo utilizando variáveis CSS.
+
 🔹 Integração de elementos multimídia (áudio e vídeo).
+
 🔹 Aplicação de boas práticas de acessibilidade para garantir uma navegação inclusiva.  
+
 🔹 Criação de botão de play utlizando apenas CSS.
 
 ## 🌐 Como executar o projeto
